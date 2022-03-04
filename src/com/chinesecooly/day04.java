@@ -29,6 +29,7 @@ public class day04 {
         System.out.println(g.equals(a+b));
     }
 }
+
 /**
  * true,false,true,true,true,true,false
  */
